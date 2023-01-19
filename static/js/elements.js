@@ -3,7 +3,7 @@ function render_header(){
     header_a.innerHTML = `
         <header class="d-flex flex-wrap justify-content-center mb-4 border-bottom">
             <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-                <img src="../../images/logotipo.png" style="margin-x: 30em" height="100px"></img>
+                <img src="images/logotipo.png" style="margin-x: 30em" height="100px"></img>
                 <span class="fs-4">Docinhos da Giu</span>
             </a>
 
