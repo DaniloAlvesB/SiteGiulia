@@ -9,8 +9,9 @@ function render_header(){
 
             <div style="margin-top: 40px; margin-bottom: 30px;">
                 <ul class="nav nav-pills">
-                    <li class="nav-item"><a href="#" class="nav_1 active_r">Início</a></li>
-                    <li class="nav-item"><a href="#" class="nav_1">Produtos</a></li>
+                   <!-- <li class="nav-item"><a href="#header_a" class="nav_1">Início</a></li> -->
+                   <li class="nav-item"><a href="#produtos" class="nav_1">Doces</a></li>
+                   <li class="nav-item"><a href="#combos" class="nav_1">Combos</a></li>
                     <li class="nav-item"><a href="#" class="nav_1">Contato</a></li>
                     <li class="nav-item"><a href="#" class="nav_1">Sobre</a></li>
                 </ul>
