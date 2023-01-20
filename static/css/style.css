@@ -1,6 +1,6 @@
 body{
     background-color: rgb(241, 192, 202);
-    background-image: url("/images/fundo2.png");
+    background-image: url('/images/fundo2.png');
     background-repeat: repeat;
 }
 
